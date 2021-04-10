@@ -1,0 +1,19 @@
+{
+  "name": "online-tutor-system",
+  "version": "1.0.0",
+  "description": "server-side of the online tutoring system that allows users to connect to one another via a messaging platform ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarrenSingh/online-tutor-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarrenSingh/online-tutor-system/issues"
+  },
+  "homepage": "https://github.com/DarrenSingh/online-tutor-system#readme"
+}
